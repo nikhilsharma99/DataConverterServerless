@@ -1,0 +1,9 @@
+env.sh
+
+*.terraform*
+*.tfstate
+*.tfstate.*
+
+*.zip
+awssecret
+env*
